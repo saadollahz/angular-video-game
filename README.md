@@ -23,6 +23,19 @@ C:\Users\Jamel>npm -v
 ```bash
 npm install -g @angular/cli
 ```
+3- crée un projet
+```bash
+ng new nom-de-projet
+```
+4- ajouter angular material a notre projet
+
+```bash
+ng add @angular/material
+```
+5- ajouter angular-guage
+```bash
+ng add angular-guage
+```
 
    
 
